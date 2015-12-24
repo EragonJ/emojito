@@ -1,16 +1,24 @@
 {
-  "name": "react-emoji-core",
+  "name": "emojito",
   "version": "0.0.1",
-  "description": "This is the core repo to provide supported emojis",
-  "main": "index.js",
+  "description": "Emojito helps you find out needed emoji easily",
+  "main": "./src/emojito.js",
   "scripts": {
     "test": "npm test"
   },
   "keywords": [
+    "emojito",
     "emoji",
-    "react",
+    "emoticon",
     "js"
   ],
-  "author": "EragonJ",
-  "license": "MIT"
+  "author": {
+    "name": "EragonJ",
+    "email": "eragonj@eragonj.me",
+    "url": "http://eragonj.me"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^1.12.9"
+  }
 }
