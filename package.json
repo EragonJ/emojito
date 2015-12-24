@@ -17,8 +17,15 @@
     "email": "eragonj@eragonj.me",
     "url": "http://eragonj.me"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EragonJ/emojito"
+  },
   "license": "MIT",
   "devDependencies": {
     "webpack": "^1.12.9"
+  },
+  "dependencies": {
+    "twemoji": "^1.4.1"
   }
 }
