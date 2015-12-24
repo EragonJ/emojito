@@ -1,0 +1,16 @@
+{
+  "name": "react-emoji-core",
+  "version": "0.0.1",
+  "description": "This is the core repo to provide supported emojis",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "emoji",
+    "react",
+    "js"
+  ],
+  "author": "EragonJ",
+  "license": "MIT"
+}
